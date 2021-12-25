@@ -16,7 +16,7 @@ Documentation for my process is currently a WIP as the goal of my project pivote
 (12/25/2021) As of Week 16 of the 2021 season, the model gives Tom Brady the highest probability to win MVP (~34%). However, current NFL discourse suggests that Aaron Rodgers is the MVP frontrunner despite having a "lesser" statistical season. This seems to be the nuances that using prediction models is missing, and a few statistics are inaccurate.
 
 <p align="center">
-![CleanShot 2021-12-25 at 10 38 21@2x](https://user-images.githubusercontent.com/39353286/147388490-5cdcae94-f19a-41c8-8d67-42501ca13564.png)
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/39353286/147388490-5cdcae94-f19a-41c8-8d67-42501ca13564.png">
 </p>
 
 ## Sources
