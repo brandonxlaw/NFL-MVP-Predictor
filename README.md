@@ -10,7 +10,7 @@ Most people might be familiar with the concept of the Most Valuable Player (MVP)
 The was data using the nflfastR repo [2], developed by nflverse, which provides play-by-play game log statistics for every game from 1990 to the most recent game.
 
 ## Process (WIP)
-Documentation for my process is currently a WIP as the goal of my project pivoted. I will be updated my repo overtime so feel free to checkout my notebook for more details. 
+Documentation for my process is currently a WIP as the goal of my project pivoted. I will be updated my repo overtime so feel free to checkout my notebook (main.ipynb) for more details. 
 
 ## Prediction for 2021
 (12/25/2021) As of Week 16 of the 2021 season, the model gives Tom Brady the highest probability to win MVP (~34%). However, current NFL discourse suggests that Aaron Rodgers is the MVP frontrunner despite having a "lesser" statistical season. This seems to be the nuances that using prediction models is missing, and a few statistics are inaccurate.
