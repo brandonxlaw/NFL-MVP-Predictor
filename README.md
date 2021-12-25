@@ -13,9 +13,11 @@ The was data using the nflfastR repo [2], developed by nflverse, which provides 
 Documentation for my process is currently a WIP as the goal of my project pivoted. I will be updated my repo overtime so feel free to checkout my notebook for more details. 
 
 ## Prediction for 2021
-[2021/12/25] As of Week 16 of the 2021 season, the model gives Tom Brady the highest probability to win MVP (~34%). However, current NFL discourse suggests that Aaron Rodgers is the MVP frontrunner despite having a "lesser" statistical season. This seems to be the nuances that using prediction models is missing, and a few statistics are inaccurate.
+(12/25/2021) As of Week 16 of the 2021 season, the model gives Tom Brady the highest probability to win MVP (~34%). However, current NFL discourse suggests that Aaron Rodgers is the MVP frontrunner despite having a "lesser" statistical season. This seems to be the nuances that using prediction models is missing, and a few statistics are inaccurate.
 
+<p align="center">
 ![CleanShot 2021-12-25 at 10 38 21@2x](https://user-images.githubusercontent.com/39353286/147388490-5cdcae94-f19a-41c8-8d67-42501ca13564.png)
+</p>
 
 ## Sources
 [1] https://ryansbrill.com/pdf/sports_analytics_articles/qbmvp.pdf
