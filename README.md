@@ -2,4 +2,4 @@
 This project looks to collect different statistics from an NFL season to train different logistic regression models to predict the NFL MVP for any given season.
 
 ## Process
-Wrteup coming soon!
+Writeup coming soon!
