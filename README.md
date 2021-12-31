@@ -38,8 +38,8 @@ Both models scored a 71% (10/14 correct predictions), with Model 1 predicting mo
 ![CleanShot 2021-12-31 at 18 46 47@2x](https://user-images.githubusercontent.com/39353286/147841211-f5ff19f1-d351-46f5-8d9b-c6c3e413e0e1.png)
 
 ## Sources
-https://ryansbrill.com/pdf/sports_analytics_articles/qbmvp.pdf
-https://github.com/nflverse/nflfastR-data/tree/master/data
-https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+[1] https://ryansbrill.com/pdf/sports_analytics_articles/qbmvp.pdf
+[2] https://github.com/nflverse/nflfastR-data/tree/master/data
+[3] https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 
 
