@@ -14,6 +14,8 @@ The dataset consisted of a dataframe with each row corresponding to all of the r
 
 ![CleanShot 2021-12-31 at 18 42 03@2x](https://user-images.githubusercontent.com/39353286/147841144-064c58bd-c767-4ef0-9777-bbd5338bd730.png)
 
+To better understand influence of ranking statistics versus numerical statistics, I decided to test for how interceptions are calculated. From the table above, you notice that all features are the same except for interceptions. For example, the 2019 season was an anomoly where Jamies Winston became the first player to throw 33 touchdowns (ranked highest), 30 interceptions (ranked first) and led the league in passing yards. Despite ranking first in most major categories, he was not considered an MVP.
+
 ## Training the Model
 
 I used scikit-learn’s LogisticRegression model [3] and trained the model using the seasons of 2004-2016 and tested using the seasons of 2017-2020. The table below displays the coefficient the model produced for each feature.
